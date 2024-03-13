@@ -21,5 +21,6 @@
 # Reverse the order of the list
 
 # Remove all duplicates from the list
-
+-----------------------------------------------------------
 # Remove all occurrences of a number from the list
+
